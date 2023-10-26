@@ -1,4 +1,3 @@
-
 def encode(inputted_password):
     encoded_password = []
     for j in inputted_password:
